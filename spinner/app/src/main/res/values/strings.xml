@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">spinner</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="breed_array" >
+    <item>Japanese Spaniel</item>
+    <item>Maltese Dog</item>
+    <item>Shih-Tzu</item>
+    <item>Blenheim Spaniel</item>
+    <item>Papillon</item>
+    <item>Doberman</item>
+    <item>Greater Swiss Mountaindog</item>
+    <item>Great Pyrenees</item>
+    <item>Pomeranian</item>
+    <item>African HuntingDog</item>
+    </string-array>
+</resources>
