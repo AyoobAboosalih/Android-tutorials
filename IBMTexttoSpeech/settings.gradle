@@ -1,0 +1,2 @@
+rootProject.name='IBM Text to Speech'
+include ':app'

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IBM Text to Speech</string>
+    <string name="bt1text">Speak</string>
+    <string name="apikey">tx0f2c3WcpGb4f28FT4RHZr_P9zVgJmjVL7_GSQYN1F0</string>
+    <string name="apiurl">https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/1d575189-bfba-4764-8e21-88b57f5e80e4</string>
+</resources>
