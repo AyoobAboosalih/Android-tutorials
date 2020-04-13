@@ -23,7 +23,7 @@ public class EventsData extends SQLiteOpenHelper {
     public void onCreate(SQLiteDatabase db) {
         db.execSQL("CREATE TABLE " + TABLE_NAME + " ("
                 + _ID
-                + " INTERGER PRIMARY KEY AUTOINCREMENT, "
+                + " INTEGER PRIMARY KEY AUTOINCREMENT, "
                 + TIME + " INTEGER,"
                 + TITLE + " TEXT NOT NULL);"
         );
